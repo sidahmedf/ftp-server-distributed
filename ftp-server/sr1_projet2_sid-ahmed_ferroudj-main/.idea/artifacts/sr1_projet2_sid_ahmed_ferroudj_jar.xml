@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sr1_projet2_sid-ahmed_ferroudj:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sr1_projet2_sid_ahmed_ferroudj_jar</output-path>
+    <root id="archive" name="sr1_projet2_sid-ahmed_ferroudj.jar">
+      <element id="module-output" name="sr1_projet2_sid-ahmed_ferroudj" />
+    </root>
+  </artifact>
+</component>
